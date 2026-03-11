@@ -1,0 +1,15 @@
+C:\Users\thurl\variant-analysis-testbed\src\VariantTestbed.Infrastructure\bin\Debug\net10.0\VariantTestbed.Infrastructure.deps.json
+C:\Users\thurl\variant-analysis-testbed\src\VariantTestbed.Infrastructure\bin\Debug\net10.0\VariantTestbed.Infrastructure.dll
+C:\Users\thurl\variant-analysis-testbed\src\VariantTestbed.Infrastructure\bin\Debug\net10.0\VariantTestbed.Infrastructure.pdb
+C:\Users\thurl\variant-analysis-testbed\src\VariantTestbed.Infrastructure\bin\Debug\net10.0\VariantTestbed.Domain.dll
+C:\Users\thurl\variant-analysis-testbed\src\VariantTestbed.Infrastructure\bin\Debug\net10.0\VariantTestbed.Domain.pdb
+C:\Users\thurl\variant-analysis-testbed\src\VariantTestbed.Infrastructure\obj\Debug\net10.0\VariantTestbed.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\thurl\variant-analysis-testbed\src\VariantTestbed.Infrastructure\obj\Debug\net10.0\VariantTestbed.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thurl\variant-analysis-testbed\src\VariantTestbed.Infrastructure\obj\Debug\net10.0\VariantTestbed.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\thurl\variant-analysis-testbed\src\VariantTestbed.Infrastructure\obj\Debug\net10.0\VariantTestbed.Infrastructure.AssemblyInfo.cs
+C:\Users\thurl\variant-analysis-testbed\src\VariantTestbed.Infrastructure\obj\Debug\net10.0\VariantTestbed.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\thurl\variant-analysis-testbed\src\VariantTestbed.Infrastructure\obj\Debug\net10.0\VariantT.65DA913F.Up2Date
+C:\Users\thurl\variant-analysis-testbed\src\VariantTestbed.Infrastructure\obj\Debug\net10.0\VariantTestbed.Infrastructure.dll
+C:\Users\thurl\variant-analysis-testbed\src\VariantTestbed.Infrastructure\obj\Debug\net10.0\refint\VariantTestbed.Infrastructure.dll
+C:\Users\thurl\variant-analysis-testbed\src\VariantTestbed.Infrastructure\obj\Debug\net10.0\VariantTestbed.Infrastructure.pdb
+C:\Users\thurl\variant-analysis-testbed\src\VariantTestbed.Infrastructure\obj\Debug\net10.0\ref\VariantTestbed.Infrastructure.dll

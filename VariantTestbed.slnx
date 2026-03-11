@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/VariantTestbed.Api/VariantTestbed.Api.csproj" />
+    <Project Path="src/VariantTestbed.Domain/VariantTestbed.Domain.csproj" />
+    <Project Path="src/VariantTestbed.Infrastructure/VariantTestbed.Infrastructure.csproj" />
+  </Folder>
+</Solution>

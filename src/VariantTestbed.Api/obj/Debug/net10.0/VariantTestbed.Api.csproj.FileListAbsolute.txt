@@ -1,0 +1,11 @@
+C:\Users\thurl\variant-analysis-testbed\src\VariantTestbed.Api\bin\Debug\net10.0\VariantTestbed.Api.deps.json
+C:\Users\thurl\variant-analysis-testbed\src\VariantTestbed.Api\bin\Debug\net10.0\VariantTestbed.Api.dll
+C:\Users\thurl\variant-analysis-testbed\src\VariantTestbed.Api\bin\Debug\net10.0\VariantTestbed.Api.pdb
+C:\Users\thurl\variant-analysis-testbed\src\VariantTestbed.Api\obj\Debug\net10.0\VariantTestbed.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thurl\variant-analysis-testbed\src\VariantTestbed.Api\obj\Debug\net10.0\VariantTestbed.Api.AssemblyInfoInputs.cache
+C:\Users\thurl\variant-analysis-testbed\src\VariantTestbed.Api\obj\Debug\net10.0\VariantTestbed.Api.AssemblyInfo.cs
+C:\Users\thurl\variant-analysis-testbed\src\VariantTestbed.Api\obj\Debug\net10.0\VariantTestbed.Api.csproj.CoreCompileInputs.cache
+C:\Users\thurl\variant-analysis-testbed\src\VariantTestbed.Api\obj\Debug\net10.0\VariantTestbed.Api.dll
+C:\Users\thurl\variant-analysis-testbed\src\VariantTestbed.Api\obj\Debug\net10.0\refint\VariantTestbed.Api.dll
+C:\Users\thurl\variant-analysis-testbed\src\VariantTestbed.Api\obj\Debug\net10.0\VariantTestbed.Api.pdb
+C:\Users\thurl\variant-analysis-testbed\src\VariantTestbed.Api\obj\Debug\net10.0\ref\VariantTestbed.Api.dll
