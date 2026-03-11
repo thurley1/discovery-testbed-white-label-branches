@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VariantTestbed.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a0f621e9dc7a07bd6653f6252a02e382c6e59dfa")]
 [assembly: System.Reflection.AssemblyProductAttribute("VariantTestbed.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VariantTestbed.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
