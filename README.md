@@ -1,4 +1,4 @@
-# variant-analysis-testbed
+# discovery-testbed-white-label-branches
 
 **This is a StormBoard topology test fixture, NOT a real application.**
 
@@ -42,7 +42,7 @@ This repo is part of StormBoard's topology detection test suite:
 
 | Repo | Expected Topology |
 |------|------------------|
-| **variant-analysis-testbed** (this repo) | WhiteLabelBranches |
+| **discovery-testbed-white-label-branches** (this repo) | WhiteLabelBranches |
 | [discovery-testbed-monolith](https://github.com/thurley1/discovery-testbed-monolith) | Monolith |
 | [discovery-testbed-modular-monolith](https://github.com/thurley1/discovery-testbed-modular-monolith) | ModularMonolith |
 | [discovery-testbed-multi-service](https://github.com/thurley1/discovery-testbed-multi-service) | MonorepoMultiService |
